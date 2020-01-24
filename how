@@ -1,0 +1,35 @@
+[33mcommit 51b9aba7553397fc5a5420eb3896ca7c272fe858[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature/implementing-auth[m[33m, [m[1;32mrelease/1.0[m[33m, [m[1;32mfeature/implementing-auth[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: GabAzIsh <cat.iquality@gmail.com>
+Date:   Fri Jan 24 00:02:06 2020 +0300
+
+    Implementing auth
+
+[33mcommit 1d78792b74fc0856a4a5a5b07f311e9c25560574[m[33m ([m[1;31morigin/implement-new-logic[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: GabAzIsh <cat.iquality@gmail.com>
+Date:   Thu Jan 23 23:40:03 2020 +0300
+
+    Added getPerson
+
+[33mcommit 3eec4e48ca49597f1c61e3eb11459fbefe6b1d48[m
+Author: GabAzIsh <cat.iquality@gmail.com>
+Date:   Thu Jan 23 23:28:22 2020 +0300
+
+    Added 2.js
+
+[33mcommit 1f9178fec0ff8e47eadeb44d02cefa6855c4a558[m
+Author: GabAzIsh <cat.iquality@gmail.com>
+Date:   Thu Jan 23 23:16:40 2020 +0300
+
+    Changed addNumber
+
+[33mcommit 19b73912c028dd1aa940f6108d061b34aabd3307[m
+Author: GabAzIsh <cat.iquality@gmail.com>
+Date:   Thu Jan 23 23:11:53 2020 +0300
+
+    Added addNumber function
+
+[33mcommit 171d359c9c58ddfcdcc28b2c4af6b3a0a5cf8371[m
+Author: GabAzIsh <cat.iquality@gmail.com>
+Date:   Thu Jan 23 22:57:31 2020 +0300
+
+    Start learning git
